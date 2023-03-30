@@ -13,7 +13,7 @@
 - This tool is for Linux only, at least porting it to Windows is beyond my capability...
 - A C++ compiler that supports C++17 standard, e.g. `clang-14`
 - `cmake`
-- `libudev`, which should be already be there with reasonably recent distros
+- `libudev`, which should be already there with reasonably recent distros
 - Linux `hidraw` driver, which should *definitely* be there and working already so long as you are not using things like WSL
 
 ## usage
